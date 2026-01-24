@@ -1,4 +1,4 @@
-package-as: Aas_Waypoints
+package-as: Asa_Waypoints
 
 ignore:
     - README.md
