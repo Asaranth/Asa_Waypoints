@@ -1,0 +1,11 @@
+## Interface: 120000
+## Title: |cFF047857Asa|r Suite: AW
+## Category-enUS: |cFF047857Asa|r Suite
+## Group: Asa_Suite
+## Notes: Adds a /way command to create map pins with a built in queue.
+## Author: Asaranth
+## Version: 1.0.0
+## SavedVariables: AW_DB
+
+embeds.xml
+Core.lua
