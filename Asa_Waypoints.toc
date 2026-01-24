@@ -6,6 +6,7 @@
 ## Author: Asaranth
 ## Version: 1.0.0
 ## SavedVariables: AW_DB
+## X-Curse-Project-ID: 1443024
 
 embeds.xml
 Core.lua
