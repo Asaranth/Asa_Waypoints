@@ -1,5 +1,7 @@
 # Asa Suite: Waypoints
 
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/1443024) ![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/1443024)
+
 **Asa Suite: Waypoints** is a lightweight World of Warcraft addon that enhances the default map pin system by adding a `/way` command and a waypoint queue.
 
 ## Features
