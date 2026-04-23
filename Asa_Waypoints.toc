@@ -3,7 +3,7 @@
 ## Category-enUS: |cFF047857Asa|r Suite
 ## Notes: Adds a /way command to create map pins with a built in queue.
 ## Author: Asaranth
-## Version: 1.0.0
+## Version: 1.0.2
 ## SavedVariables: AW_DB
 ## IconTexture: Interface\AddOns\Asa_Waypoints\Media\logo.png
 ## X-Curse-Project-ID: 1443024
