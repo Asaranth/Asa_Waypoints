@@ -1,4 +1,4 @@
-## Interface: 120000, 120001, 120005, 120007, 120100
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001
 ## Title: |cFF047857Asa|r Suite: Waypoints
 ## Category-enUS: |cFF047857Asa|r Suite
 ## Notes: Adds a /way command to create map pins with a built in queue.
